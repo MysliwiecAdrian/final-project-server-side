@@ -79,6 +79,7 @@ const bootApp = async () => {
 // Finally, run the boot process to start server application
 bootApp();
 
+
 /* ACTIVATE THE SERVER PORT */
 // Set up express application to use port 5000 as the access point for the server application.
 const PORT = 5001;  // Server application access point port number
